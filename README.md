@@ -203,7 +203,7 @@ mysql --version
 The latest integrated version is available on the ai-integration branch.
 
 ```bash
-git clone -b ai-integration https://github.com/amaankazi81/Care-Sync-AI.git
+git clone -b main https://github.com/Nikhil23108/Care-Sync-AI
 cd Care-Sync-AI
 ```
 
@@ -214,8 +214,7 @@ git branch
 
 Expected:
 ```bash
-* ai-integration
-  main
+* main
 ```
 
 ---
